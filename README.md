@@ -23,7 +23,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Noel         | Jess        |  |
 | Raaya        | Emily       |  |
 | Rahul        | Jess        |  |
-| Raslan       | Emily       |  |
+| Ruslan       | Emily       |  |
 | Taine        | Jess        |  |
 | Tamari       | Emily       |  |
 
@@ -45,7 +45,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Noel         | Emily       |  |
 | Raaya        | Jess        |  |
 | Rahul        | Emily       |  |
-| Raslan       | Jess        |  |
+| Ruslan       | Jess        |  |
 | Taine        | Emily       |  |
 | Tamari       | Jess        |  |
 
@@ -67,7 +67,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Noel         | Jess        |  |
 | Raaya        | Emily       |  |
 | Rahul        | Jess        |  |
-| Raslan       | Emily       |  |
+| Ruslan       | Emily       |  |
 | Taine        | Jess        |  |
 | Tamari       | Emily       |  |
 
@@ -89,7 +89,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Noel         | Emily       |  |
 | Raaya        | Jess        |  |
 | Rahul        | Emily       |  |
-| Raslan       | Jess        |  |
+| Ruslan       | Jess        |  |
 | Taine        | Emily       |  |
 | Tamari       | Jess        |  |
 
@@ -111,6 +111,6 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Noel         | Jess        |  |
 | Raaya        | Emily       |  |
 | Rahul        | Jess        |  |
-| Raslan       | Emily       |  |
+| Ruslan       | Emily       |  |
 | Taine        | Jess        |  |
 | Tamari       | Emily       |  |
