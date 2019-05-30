@@ -19,7 +19,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Jared        | Jess        | ✔️ |
 | Jennie       | Emily       | ✔️ |
 | Joanna       | Jess        | ✔️ |
-| Kieth        | Emily       |  |
+| Kieth        | Emily       | ✔️ |
 | Noel         | Jess        | ✔️ |
 | Raaya        | Emily       |  |
 | Rahul        | Jess        |  |
