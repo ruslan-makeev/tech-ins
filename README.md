@@ -25,7 +25,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Rahul        | Jess        | ✔️ |
 | Ruslan       | Emily       | ✔️ |
 | Taine        | Jess        | ✔️ |
-| Tamari       | Emily       |  |
+| Tamari       | Emily       | ✔️ |
 
 
 ## Week 2
