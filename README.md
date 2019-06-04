@@ -34,7 +34,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | ------------ | ----------- | ---- |
 | Andre        | Emily       |  |
 | Anisha       | Jess        | ✔️ |
-| Ash          | Emily       |  |
+| Ash          | Emily       | ✔️ |
 | Celia        | Jess        |  |
 | David B      | Emily       |  |
 | David N      | Jess        |  |
