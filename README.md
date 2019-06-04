@@ -89,7 +89,7 @@ During weeks 4, 6, 8 and 9 if you would like to have a tech in - feel free to gr
 | Noel         | Emily       |  |
 | Raaya        | Jess        |  |
 | Rahul        | Emily       |  |
-| Ruslan       | Jess        |  |
+| Ruslan       | Emily       |  |
 | Taine        | Emily       |  |
 | Tamari       | Jess        |  |
 
